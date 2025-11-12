@@ -1,1 +1,4 @@
 using System;
+
+class Program{
+}
